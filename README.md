@@ -48,15 +48,16 @@ Key principle:
 The language model **does not generate financial numbers**, it only explains values retrieved from the database.
 
 ---
-# Repository Structure
+## Repository Structure
 
+```
 finai/
 │
 ├── backend/                     # Core backend services
 │   ├── api.py                   # Flask API endpoints
 │   ├── query_engine.py          # Query planning and execution logic
 │   ├── data_processing.py       # Data cleaning and preprocessing
-│   ├── database/                # Database schema and data access logic
+│   ├── database/                # Database schema and database helpers
 │   │   ├── schema.sql
 │   │   └── db_utils.py
 │   └── requirements.txt
@@ -66,11 +67,11 @@ finai/
 │   ├── pages/
 │   └── package.json
 │
-├── evaluation/                  # Experiments and model evaluation
+├── evaluation/                  # Model evaluation experiments
 │   └── experiments.ipynb
 │
 └── README.md
-
+```
 ---
 # Tech Stack
 
