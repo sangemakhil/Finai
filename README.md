@@ -129,5 +129,4 @@ Statistical tests were applied to measure improvements between the baseline syst
 - Enable natural language interaction with structured financial data  
 
 ---
-# Repository Structure
 
