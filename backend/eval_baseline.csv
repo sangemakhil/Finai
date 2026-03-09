@@ -1,0 +1,2 @@
+query,response,facts,time_taken_sec,clarity_score
+SIP total in 2024 vs 2023 for HDFC Equity Growth,"In 2024, you contributed $7200 to HDFC Equity Growth. Last year was $6000, so you are 20.0% fu.","{""type"": ""sip_summary"", ""year"": 2024, ""fund_name"": ""HDFC Equity Growth"", ""total_this"": 7200.0, ""total_prev"": 6000.0, ""yoy"": 20.0}",0.003832101821899414,84.90000000000003
